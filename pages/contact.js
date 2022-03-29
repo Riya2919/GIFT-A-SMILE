@@ -2,7 +2,7 @@ import React from "react";
 
 const contact = () => {
   return (
-    <>
+    <div className="py-5 lg:py-8 xl:py-10">
       <htmlForm className="w-1/2 h-1/2 max-">
         <div className="flex flex-wrap -mx-3 mb-6 md:px-40 sm:px-20 px-10">
           <div className="w-full md:w-1/2 px-3 mb-6 md:mb-0">
@@ -85,7 +85,7 @@ const contact = () => {
           <div className="md:w-2/3"></div>
         </div>
       </htmlForm>
-    </>
+    </div>
   );
 };
 

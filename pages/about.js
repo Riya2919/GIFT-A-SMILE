@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const about = () => {
   return (
-    <>
+    <div className="py-3">
       {/* heading */}
       <div className="flex justify-center py-5">
         <h1 className="text-xl">Gift-A-Smile</h1>
@@ -30,46 +30,46 @@ const about = () => {
       </div>
 
       {/* boxes */}
-      <div className="bg-slate-400">
+      <div className="">
         <div className="flex justify-center mt-4">
           <h1 className="">Gift-A-Smile's Role</h1>
         </div>
         <div className="lg:flex justify-center lg:mx-10">
           
-          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5">
-            <h1>LOREM IPSUM</h1>
-            <p>
+          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5 bg-gradient-to-tr from-black to-gray-600 opacity-80 rounded-lg shadow-xl">
+            <h1 className="text-white font-semibold">LOREM IPSUM</h1>
+            <p className="text-white text-sm">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout.
             </p>
           </div>
 
-          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5">
-            <h1>LOREM IPSUM</h1>
-            <p>
+          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5 bg-gradient-to-tr from-black to-gray-600 opacity-80 rounded-lg shadow-xl">
+            <h1 className="text-white font-semibold">LOREM IPSUM</h1>
+            <p className="text-white text-sm">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout.
             </p>
           </div>
 
-          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5">
-            <h1>LOREM IPSUM</h1>
-            <p>
+          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5 bg-gradient-to-tr from-black to-gray-600 opacity-80 rounded-lg shadow-xl">
+            <h1 className="text-white font-semibold">LOREM IPSUM</h1>
+            <p className="text-white text-sm">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout.
             </p>
           </div>
 
-          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5">
-            <h1>LOREM IPSUM</h1>
-            <p>
+          <div className="bg-white m-4 p-5 md:px-16 md:mx-20 sm:px-20 sm:mx-20 lg:mx-5 bg-gradient-to-tr from-black to-gray-600 opacity-80 rounded-lg shadow-xl">
+            <h1 className="text-white font-semibold">LOREM IPSUM</h1>
+            <p className="text-white text-sm">
               It is a long established fact that a reader will be distracted by
               the readable content of a page when looking at its layout.
             </p>
           </div>
         </div>
       </div>
-    </>
+    </div>
   );
 };
 
