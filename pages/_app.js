@@ -2,7 +2,7 @@ import '../styles/globals.css'
 
 function MyApp({ Component, pageProps }) {
   return (
-  <div className='bg-green-400'>
+  <div className='bg-[#FFAB76]'>
   <Component {...pageProps}/>
   </div>
   )
