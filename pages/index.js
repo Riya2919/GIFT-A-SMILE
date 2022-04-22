@@ -19,7 +19,7 @@ export default function Home() {
               alt="Landing page banner image"
             />
           </div>
-          <div className='absolute bottom-3 flex justify-evenly w-full sm:bottom-5 lg:bottom-12 xl:bottom-20'>
+          <div className='absolute bottom-3 flex justify-evenly w-full sm:bottom-5 lg:bottom-16 xl:bottom-24'>
             <div className='bg-black w-1/4 opacity-95 rounded-lg hover:scale-110 transition-all ease-in-out p-1 lg:p-3 lg:w-1/5'>
               <h1 className='text-center animate-pulse font-semibold sm:font-bold lg:text-xl text-white'>420+</h1>
               <p className='text-center animate-pulse text-sm sm:text-base lg:text-lg text-white'>dolor sit amet consectetur</p>
