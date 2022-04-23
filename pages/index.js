@@ -46,7 +46,7 @@ export default function Home() {
             <div className='w-3/4 sm:w-2/5 mx-auto md:p-3 lg:w-1/4 lg:p-1'>
               <div className='bg-gradient-to-tr from-black to-gray-600 opacity-90 rounded-lg p-3 shadow-xl hover:scale-105 transition-all ease-in-out'>
                 <h3 className='text-center animate-pulse font-semibold text-white mb-3 uppercase lg:text-lg'>Finding Needs</h3>
-                <p className='text-white text-center text-sm px-3 lg:text-base'>Now, you don’t have to scroll through the internet to find the right site for making the right donations.</p>
+                <p className='text-white text-center text-sm px-3 lg:text-base'>Now, you do not have to scroll through the internet to find the right site for making the right donations.</p>
               </div>
             </div>
             <div className='w-3/4 sm:w-2/5 mx-auto md:p-3 lg:w-1/4 lg:p-1'>

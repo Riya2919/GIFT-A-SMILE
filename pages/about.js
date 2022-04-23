@@ -27,7 +27,7 @@ const about = () => {
       {/* boxes */}
       <div className="py-8">
         <div className="flex justify-center mt-4">
-          <h1 className="font-medium animate-pulse md:text-xl pb-8 lg:text-2xl xl:text-3xl">Gift-A-Smile's Role</h1>
+          <h1 className="font-medium animate-pulse md:text-xl pb-8 lg:text-2xl xl:text-3xl">Gift-A-Smile Role</h1>
         </div>
         <div className="lg:flex justify-center lg:mx-10">
 
@@ -40,7 +40,7 @@ const about = () => {
           <div className="bg-white m-4 p-5 md:px-8 md:w-2/3 md:mx-auto sm:px-20 sm:mx-20 lg:mx-5 bg-gradient-to-tr from-black to-gray-900 opacity-80 rounded-lg shadow-xl hover:scale-105 transition-all ease-in-out">
             <h1 className="text-white animate-pulse font-semibold mb-2">Helping NGOs</h1>
             <p className="text-white text-sm">
-            Now, you don’t have to scroll through the internet to find the right site for making the right donations. This will also help the NGOs to keep their workflow streamlined.
+            Now, you do not have to scroll through the internet to find the right site for making the right donations. This will also help the NGOs to keep their workflow streamlined.
             </p>
           </div>
 
