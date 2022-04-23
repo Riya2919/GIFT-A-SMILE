@@ -49,9 +49,9 @@ const contact = () => {
                             />
                         </div>
                         <div className='py-3 px-2'>
-                            <p className='text-center text-sm mb-1 lg:text-base'>14, Amrapali Vihar, Raibareli Road</p>
-                            <p className='text-center text-sm mb-1 lg:text-base'>Near Sainik Dhaba</p>
-                            <p className='text-center text-sm mb-1 lg:text-base'>Lucknow</p>
+                            <p className='text-center text-sm mb-1 lg:text-base'>New Boys Hostel</p>
+                            <p className='text-center text-sm mb-1 lg:text-base'>VIT Bhopal</p>
+                            <p className='text-center text-sm mb-1 lg:text-base'>Madhya Pradesh</p>
                         </div>
                     </div>
                 </div>
