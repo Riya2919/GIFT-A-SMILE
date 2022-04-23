@@ -7,7 +7,7 @@ const contact = () => {
             <section className='relative'>
                 <div>
                     <Image
-                        src="/media/smiling_kids.jpg"
+                        src="/media/smiling_kids3.jpg"
                         height="900"
                         width="1920"
                         alt="Contact page banner"

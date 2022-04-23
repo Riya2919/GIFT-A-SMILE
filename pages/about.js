@@ -7,11 +7,11 @@ const about = () => {
 
       {/* image */}
       <div className="flex justify-center pb-5">
-        <Image src="/media/smiling_kids.jpg" width="1920" height="1080" />
+        <Image src="/media/smiling_kids2.jpg" width="1920" height="900" />
       </div>
 
       {/* paragraph  */}
-      <div className="flex justify-center ">
+      <div className="flex justify-center py-8">
         <p className="text-center text-sm w-3/4 md:text-base md:w-2/3">
           Gift-a-smile is a non-profit company that connects NGOs with
           individuals who wish to make a social impact by contributing to the
@@ -20,9 +20,9 @@ const about = () => {
       </div>
 
       {/* boxes */}
-      <div className="">
+      <div className="py-8">
         <div className="flex justify-center mt-4">
-          <h1 className="font-medium animate-pulse md:text-xl">Gift-A-Smile's Role</h1>
+          <h1 className="font-medium animate-pulse md:text-xl pb-8 lg:text-2xl xl:text-3xl">Gift-A-Smile's Role</h1>
         </div>
         <div className="lg:flex justify-center lg:mx-10">
 
