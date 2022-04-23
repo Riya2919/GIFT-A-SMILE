@@ -7,7 +7,12 @@ const about = () => {
 
       {/* image */}
       <div className="flex justify-center pb-5">
-        <Image src="/media/smiling_kids2.jpg" width="1920" height="900" />
+        <Image 
+        src="/media/smiling_kids2.jpg"
+        width="1920"
+        height="900"
+        alt="Banner image"
+        />
       </div>
 
       {/* paragraph  */}
