@@ -23,6 +23,11 @@ const Navbar = () => {
                         Home
                     </span>
                 </Link>
+                <Link href="/donate">
+                    <span className='align-middle uppercase font-semibold text-xs p-1 cursor-pointer text-white hover:bg-slate-500 transition-all ease-in-out rounded-lg sm:p-2 md:text-sm lg:text-base'>
+                        Donate
+                    </span>
+                </Link>
                 <Link href="/about">
                     <span className='align-middle uppercase font-semibold text-xs p-1 cursor-pointer text-white hover:bg-slate-500 transition-all ease-in-out rounded-lg sm:p-2 md:text-sm lg:text-base'>
                         About
